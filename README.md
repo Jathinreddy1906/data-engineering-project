@@ -38,3 +38,36 @@ data-engineering-project/
 ├── .gitignore
 ├── Dockerfile
 └── README.md
+
+## Technologies and Tools Used
+
+- Windows
+- WSL2
+- Ubuntu Linux
+- Linux Command Line
+- Bash
+- Shell Scripting
+- Python 3
+- Python `requests` library
+- REST API
+- JSON
+- Git
+- GitHub
+- Docker
+- Dockerfile
+- Git branches
+- Git commits
+- GitHub Pull Requests
+
+---
+
+# 1. WSL2 and Ubuntu
+
+The project was developed using Ubuntu running through Windows Subsystem for Linux 2 (WSL2).
+
+WSL2 provides a Linux environment directly inside Windows and allows Linux commands and tools to be used without creating a traditional virtual machine.
+
+The Linux username used for the project is:
+
+```text
+jathin
